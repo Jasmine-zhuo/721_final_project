@@ -131,5 +131,3 @@ I used https://locust.io/ to start load testing for the flask project.
 
 4. Here is our test result. 
    <img width="1280" alt="Screen Shot 2022-04-12 at 5 35 13 PM" src="https://user-images.githubusercontent.com/71869002/163085022-138f68e1-67b4-47d4-bae7-7f944a6d6e1c.png">
-
-   For testing!!!!!!!
